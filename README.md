@@ -1,4 +1,4 @@
-ESP8266 WiFi-clock with automatic DST
+<h1>ESP8266 WiFi-clock with automatic DST</h1>
 
 This is a WiFi-clock with automatic daylight saving time.
 
